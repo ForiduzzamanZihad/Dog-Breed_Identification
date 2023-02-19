@@ -32,4 +32,4 @@ The breed identifier was created by fine-tuning a pretrained CNN ResNet (also tr
 - Fastai's deep-learning course and [book](https://github.com/fastai/fastbook) were invaluable resources in learning how to train and deploy a CNN classifier using transfer learning.
 - The app is dedicated to Cosmo, Loki and Monty.
 
-**Author**: Alexei Kudryashov
+**Author**: Foriduzzaman Zihad
